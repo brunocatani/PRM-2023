@@ -1,1 +1,1 @@
-# PRM-2023
+# Repositório da disciplina de programação
